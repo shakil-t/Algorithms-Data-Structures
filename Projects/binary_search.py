@@ -27,4 +27,3 @@ while(low<=high and found==False):
         low=m+1
 if(found==False):
     print("Not found")
-    
